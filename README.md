@@ -149,4 +149,23 @@ Jupyter Notebook
 
 ---
 
-## Project Structure
+## Future Improvements
+
+Possible extensions of this work include:
+
+- Incorporating team performance projections
+- Adding betting market information
+- Expanding feature engineering for rookie prediction
+- Applying probabilistic ranking models
+
+---
+
+## Author
+
+Richard Wilders
+
+M.S. Data Science (Expected 2026)  
+Former U.S. Marine Corps Signals Intelligence Analyst
+
+LinkedIn  
+https://linkedin.com/in/richard-wilders-915395106
